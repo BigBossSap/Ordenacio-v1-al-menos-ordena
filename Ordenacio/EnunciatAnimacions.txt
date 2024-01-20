@@ -1,0 +1,16 @@
+﻿abans de fer la pausa fem lanimacio
+
+lanimacio hauria de durar el mateix que la pausa
+
+
+tipus danimacio = desplaçaments , en comptes de fer desplaçament lateral, desplaçem alçades.
+
+afegir triar funcio de easing
+
+i despres easin o easi out, etc..
+
+
+quan seleccionem 2 rectangles, hem de modificar la porpietat zindex, perque el que esta per sobre es el que es mou, han d'estar per sobre
+
+*/
+
